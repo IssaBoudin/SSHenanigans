@@ -18,15 +18,18 @@ ssh user@TARGET IP
 ```
 
 4. Include the correct SSH flags to be valid.
+
 So, if the question specifies a Dynamic Port Forwarding scenario, you must include -D.
 ```
 ssh user@TARGET IP -D PORT
 ```
 
 5. Read the Question.
+
 You will be given the target IP and ports needed to answer the question (unless I missed something because I'm tired).
 
-6. Proof-Read Your Answer
+6. Proof-Read Your Answer.
+
 It can't take into account spelling errors and such. Just keep that in mind.
 
 ## Correct Answer Example
